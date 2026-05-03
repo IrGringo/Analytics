@@ -69,7 +69,7 @@ Plateforme interactive multi-pages développée en Python pour l’analyse finan
 
 ## 🛍️ Customer Dashboard
 
-![Customer Dashboard](screenshots/Customer_Dashboard.PNG)
+![Customer Dashboard](screenshots/Customer_Behavior.PNG)
 ---
 
 # 🧰 Tech Stack
