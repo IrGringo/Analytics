@@ -14,7 +14,7 @@ Welcome to this interactive application.
 
 - 📈 Financial Performance Dashboard  
 - 👥 Customer & Seasonality Insights  
-- 🛒 Customer Behavior
+- 🛒 Customer Behavior & Revenue Drivers
 
 ### 🎯 Objective :
 Provide data-driven insights to support decision-making.
