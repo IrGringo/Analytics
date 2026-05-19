@@ -1,4 +1,4 @@
-Year,Location,Area,Rainfall,Temperature,Soil type,Irrigation,yeilds,Humidity,Crops,price,Season
+Year,Location,Area,Rainfall,Temperature,Soil type,Irrigation,yields,Humidity,Crops,price,Season
 2004,Mangalore,1279,2903.1,27,Alluvial,Drip,2570,57,Coconut,200000,Kharif
 2004,Mangalore,13283,2903.1,27,Alluvial,Drip,27170,57.5,Coconut,4847,Kharif
 2004,Mangalore,52119,2903.1,27,Alluvial,Drip,114744,57,Coconut,51239,Kharif
